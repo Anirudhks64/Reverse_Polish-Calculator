@@ -1,0 +1,24 @@
+4 8 3 * +
+28
+
+4 8 + 3 *
+36
+
+6 9 + 4 2 ^ +
+31
+
+46 8 4 * 2 / +
+62
+
+7 2 ^ 25 10 5 / + * 13 -
+1310
+
+18 3 / 2 ^ 13 7 + 5 2 ^ * +
+536
+
+Error in your code: Recheck input string for mismatched parenthesis or invalid operators
+
+Error in your code: Recheck input string for mismatched parenthesis or invalid operators
+
+
+
